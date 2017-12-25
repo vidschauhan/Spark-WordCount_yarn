@@ -10,6 +10,11 @@ import org.apache.spark.api.java.JavaSparkContext;
 
 import scala.Tuple2;
 
+/**
+ * @author Vidit
+ *
+   25-Dec-2017 6:46:07 PM
+ */
 public class WordCount {
 
 	public static void main(String[] args) {
